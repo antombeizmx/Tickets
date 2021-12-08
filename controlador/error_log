@@ -1,0 +1,49 @@
+[06-Dec-2021 11:19:48 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home4/ticketss/public_html/modelo/conexion.php:11
+Stack trace:
+#0 /home4/ticketss/public_html/modelo/conexion.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home4/ticketss/public_html/modelo/acciones.php(1769): Servidor->conectar()
+#2 /home4/ticketss/public_html/controlador/inicio_sesion.php(7): Acciones->inicio_sesion('desmod666@gmail...', 'holiswe:3')
+#3 {main}
+  thrown in /home4/ticketss/public_html/modelo/conexion.php on line 11
+[06-Dec-2021 11:19:50 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home4/ticketss/public_html/modelo/conexion.php:11
+Stack trace:
+#0 /home4/ticketss/public_html/modelo/conexion.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home4/ticketss/public_html/modelo/acciones.php(1769): Servidor->conectar()
+#2 /home4/ticketss/public_html/controlador/inicio_sesion.php(7): Acciones->inicio_sesion('desmod666@gmail...', 'holiswe:3')
+#3 {main}
+  thrown in /home4/ticketss/public_html/modelo/conexion.php on line 11
+[06-Dec-2021 11:19:54 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home4/ticketss/public_html/modelo/conexion.php:11
+Stack trace:
+#0 /home4/ticketss/public_html/modelo/conexion.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home4/ticketss/public_html/modelo/acciones.php(1769): Servidor->conectar()
+#2 /home4/ticketss/public_html/controlador/inicio_sesion.php(7): Acciones->inicio_sesion('desmod666@gmail...', 'holiswe:3')
+#3 {main}
+  thrown in /home4/ticketss/public_html/modelo/conexion.php on line 11
+[06-Dec-2021 11:19:58 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home4/ticketss/public_html/modelo/conexion.php:11
+Stack trace:
+#0 /home4/ticketss/public_html/modelo/conexion.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home4/ticketss/public_html/modelo/acciones.php(1769): Servidor->conectar()
+#2 /home4/ticketss/public_html/controlador/inicio_sesion.php(7): Acciones->inicio_sesion('desmod666@gmail...', 'holiswe:3')
+#3 {main}
+  thrown in /home4/ticketss/public_html/modelo/conexion.php on line 11
+[06-Dec-2021 11:20:10 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home4/ticketss/public_html/modelo/conexion.php:11
+Stack trace:
+#0 /home4/ticketss/public_html/modelo/conexion.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home4/ticketss/public_html/modelo/acciones.php(1769): Servidor->conectar()
+#2 /home4/ticketss/public_html/controlador/inicio_sesion.php(7): Acciones->inicio_sesion('desmod666@gmail...', 'holiswe:3')
+#3 {main}
+  thrown in /home4/ticketss/public_html/modelo/conexion.php on line 11
+[06-Dec-2021 11:22:55 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home4/ticketss/public_html/modelo/conexion.php:11
+Stack trace:
+#0 /home4/ticketss/public_html/modelo/conexion.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home4/ticketss/public_html/modelo/acciones.php(1769): Servidor->conectar()
+#2 /home4/ticketss/public_html/controlador/inicio_sesion.php(7): Acciones->inicio_sesion('desmod666@gmail...', 'holiswe:3')
+#3 {main}
+  thrown in /home4/ticketss/public_html/modelo/conexion.php on line 11
+[06-Dec-2021 11:23:16 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home4/ticketss/public_html/modelo/conexion.php:11
+Stack trace:
+#0 /home4/ticketss/public_html/modelo/conexion.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home4/ticketss/public_html/modelo/acciones.php(1769): Servidor->conectar()
+#2 /home4/ticketss/public_html/controlador/inicio_sesion.php(7): Acciones->inicio_sesion('desmod666@gmail...', 'holiswe:3')
+#3 {main}
+  thrown in /home4/ticketss/public_html/modelo/conexion.php on line 11
